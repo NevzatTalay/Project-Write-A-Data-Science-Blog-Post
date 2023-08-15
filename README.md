@@ -1,4 +1,4 @@
-# Project-Write-A-Data-Science-Blog-Pos
+# Project-Write-A-Data-Science-Blog-Posts
 This the first submission of Udacity Data Scientist Nanodegree Program. Here in this project, used dataset is the stackoverflow dataset.
 
 ### Questions answered.
