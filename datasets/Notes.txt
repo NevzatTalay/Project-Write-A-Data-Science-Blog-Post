@@ -1,0 +1,31 @@
+JOB SATISFACTION PARAMETERS
+
+LearningNewTech,Learning new technologies is fun
+BoringDetails,I tend to get bored by implementation details
+ProblemSolving,I love solving problems
+BuildingThings,Building things is very rewarding
+ChallengeMyself,I like to challenge myself
+
+
+AnnoyingUI,It annoys me when software has a poor UI
+
+
+RightWrongWay,There's a right and a wrong way to do everything
+
+
+WorkPayCare,"I don't really care what I work on, so long as I'm paid well"
+Bu soru iş memnuniyetini kırmada önemli olabilir.
+
+
+WORKPLACE COMPANIONS
+CompetePeers,I think of myself as competing with my peers
+KinshipDevelopers,I feel a sense of kinship to other developers
+FriendsDevelopers,"Most of my friends are developers, engineers, or scientists"
+DiversityImportant,Diversity in the workplace is important
+
+FUNNY
+TabsSpaces,Tabs or spaces?
+
+RESULTS
+CareerSatisfaction,Career satisfaction rating
+JobSatisfaction,Job satisfaction rating
