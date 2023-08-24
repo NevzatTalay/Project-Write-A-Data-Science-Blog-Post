@@ -55,7 +55,8 @@ The project contains three component:
 These question are the main motivation of the project.
 
 Despite Turkey showing promise in terms of future contributions compared to other countries, it stands out as one of the countries lagging behind globally in terms of average salaries. Additionally, a significant portion of the workforce in Turkey consists of salaried employees, distinguishing it from some other countries.
-
+<img src ="resources/European_Region.png/"></img>
 Similar to worldwide trends, gender distribution in Turkey is not equal. The industry is predominantly male-oriented. Finally, there isn't a significant gender-based wage disparity, but this assessment should be approached cautiously. This is due to the fact that in the examined country, Turkey, non-male orientations have an imbalanced representation in the dataset. It's evident that more data collection is necessary for more robust evaluations.
-
+<img src ="resources/Average_Salary.png/"></img>
 To have a strong job satisfaction, we expect you to receive the salary you deserve, perceive your job as requiring seriousness, be open to learning new technologies, and enjoy problem-solving. Additionally, being in competition with your colleagues seems to significantly reduce your job satisfaction. On the other hand, setting ambitious goals and having aspirations to change the world appear to enhance your job satisfaction. When all these results are examined, they seem consistent with one another. This is because individuals with such a mindset are anticipated to lead successful and fulfilling lives in the present day.
+<img src ="resources/Effect_of_Mindset.png/"></img>
