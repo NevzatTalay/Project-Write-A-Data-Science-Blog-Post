@@ -9,7 +9,8 @@ Project No: 1
 3. [File Description](#files)
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
-  
+  ![Jupyter notebook example](/resources/running_code_med.png 'Jupyter notebook example')
+
 
 ## Installation <a name="installation"></a>
 <img src ="jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg"></img>
