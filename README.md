@@ -12,9 +12,8 @@ Project No: 1
 
 
 ## Installation <a name="installation"></a>
-<img src ="resources/Jupyter Notebook sign.svg/"></img>
 <p>Use Jupyter Notebook to open file. **Exploring_StackOverflow_2017_Survey_Turkey.ipynb**</p>
-
+<img src ="resources/Jupyter Notebook sign.svg/"></img>
 
 Install requires libraries
 ```
