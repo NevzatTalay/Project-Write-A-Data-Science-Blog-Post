@@ -13,8 +13,23 @@ Project No: 1
 
 ## Installation <a name="installation"></a>
 ```
-pip install pandas, sikitlearn, seaborn
+pip install pandas, sikitlearn, seaborn, geopandas
 ```
+Import looks like this
+```
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+import math
+import os
+import seaborn as sns
+import geopandas as gpd
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score, confusion_matrix
+%matplotlib inline
+```
+
 ## Project Motivation <a name="motivation"></a>
 * Where do global software developer salaries stand, and where does Turkey fit into this picture?
 * How do the programmers in Turkey distribute in terms of gender, salary, and work arrangements?
