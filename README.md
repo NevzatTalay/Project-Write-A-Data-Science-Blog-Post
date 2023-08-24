@@ -1,6 +1,6 @@
 <h1 align="left">Project: Write a Data Science Blog Post</h1>
-<h3 align="left"><a href='https://www.udacity.com/course/data-scientist-nanodegree--nd025'>Udacity Data Scientist Nanodegree Program</a></h3>
-<h4 align="left">Project No: 1</h4>
+<h3 align="left"><a href='https://www.udacity.com/course/data-scientist-nanodegree--nd025'>Udacity Data Scientist Nanodegree Program</a></h3><h3 align="left">Project No: 1</h3>
+
 
 ## Table of Contents
 
