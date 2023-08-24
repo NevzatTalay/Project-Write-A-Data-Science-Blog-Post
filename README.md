@@ -12,6 +12,10 @@ Project No: 1
   
 
 ## Installation <a name="installation"></a>
+<img src ="jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg"></img>
+Use Jupyter Notebook to open file. **Exploring_StackOverflow_2017_Survey_Turkey.ipynb**
+
+
 Install requires libraries
 ```
 pip install pandas, sikitlearn, seaborn, geopandas
@@ -30,7 +34,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix
 %matplotlib inline
 ```
-Use Jupyter Notebook to open file. **Exploring Stackoverflow_2017.ipynb""
+
 
 ## Project Motivation <a name="motivation"></a>
 * Where do global software developer salaries stand, and where does Turkey fit into this picture?
