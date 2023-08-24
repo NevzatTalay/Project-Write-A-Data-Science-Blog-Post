@@ -12,7 +12,9 @@ Project No: 1
   
 
 ## Installation <a name="installation"></a>
-
+```
+pip install pandas, sikitlearn, seaborn
+```
 ## Project Motivation <a name="motivation"></a>
 * Where do global software developer salaries stand, and where does Turkey fit into this picture?
 * How do the programmers in Turkey distribute in terms of gender, salary, and work arrangements?
