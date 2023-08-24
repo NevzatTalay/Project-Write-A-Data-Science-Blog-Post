@@ -36,13 +36,21 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 
 
 ## Project Motivation <a name="motivation"></a>
+Three questions were asked to investigate dataset specifically about Turkey
 * Where do global software developer salaries stand, and where does Turkey fit into this picture?
 * How do the programmers in Turkey distribute in terms of gender, salary, and work arrangements?
 * How Effective Mindsets on Job Satisfaction? Are There Mindset Patterns of Successful Individuals in Turkey?
 
-## Installation <a name="installation"></a>
-
-
+## Project Content Description <a name="files"></a>
+The project contains three component:
+* Datasets
+  - survey_results_public.csv  **Contains Stackoverflow 2017 Survey Dataset**
+  - survey_results_schema.csv  **Contains Stackoverflow 2017 Survey Question List**
+  - country_cont_match.csv      **Contains Couuntry Information for Geopandas**
+* Jupyter Notebook Fİle 
+<img src ="resources/data.png/"></img>
+* Blog Post
+  - <a href="medium.com/@nevzattalay/stackoverflow-deep-turkey-analysis-8430a2f54a2b">Link Here</a>
 ## Results <a name="results"></a>
 These question are the main motivation of the project.
 
