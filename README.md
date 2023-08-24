@@ -40,6 +40,9 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 * How do the programmers in Turkey distribute in terms of gender, salary, and work arrangements?
 * How Effective Mindsets on Job Satisfaction? Are There Mindset Patterns of Successful Individuals in Turkey?
 
+## Installation <a name="installation"></a>
+
+
 ## Results <a name="results"></a>
 These question are the main motivation of the project.
 
