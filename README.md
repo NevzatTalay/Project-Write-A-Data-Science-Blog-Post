@@ -6,12 +6,13 @@ Project No: 1
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
-4. [File Description](#files)
-5. [Results](#results)
-6. [Licensing, Authors, and Acknowledgements](#licensing)
+3. [File Description](#files)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
   
 
 ## Installation <a name="installation"></a>
+Install requires libraries
 ```
 pip install pandas, sikitlearn, seaborn, geopandas
 ```
@@ -29,6 +30,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix
 %matplotlib inline
 ```
+Use Jupyter Notebook to open file. **Exploring Stackoverflow_2017.ipynb""
 
 ## Project Motivation <a name="motivation"></a>
 * Where do global software developer salaries stand, and where does Turkey fit into this picture?
